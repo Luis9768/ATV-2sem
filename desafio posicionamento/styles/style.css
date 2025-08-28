@@ -1,0 +1,67 @@
+img{
+    width: 200px;
+}
+.fantasma{
+    width: 130px;
+}
+.div-flex{
+    background-color: aqua;
+    display: flex;
+    margin-bottom: 50px;
+}
+/*alinha os objetos espaçadamente*/
+.espacado1{
+    justify-content: space-between;
+   }
+   /*alinha os objetos espaçadamente de um jeito diferente*/
+.espacado2{
+    justify-content: space-around;
+}
+/*Alinha objetos centralizados*/
+.centralizado{
+    justify-content: center;
+}
+/*Alinha os objetos totalmente a direita*/
+.direita{
+    justify-content: flex-end;
+}/*esse e o amarelo fazem parte de uma div então essa parte está a direita com cor amarela*/
+.direita-amarelo{
+    justify-content: space-between;
+}
+/*define a cor da div*/
+.amarelo{
+    background-color: yellow;
+}
+.amarelo-novo{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+}
+.coluna{
+    flex-direction: column;
+    height: 960px;
+    align-items: flex-start;
+}
+.objetos-cima{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e8b6ff;
+    align-items: center;
+}
+.objetos-baixo{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e8b6ff;
+    align-items: center;
+}
+.total{
+    background-color: #acffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 960PX;
+    margin-bottom: 50px;
+    
+}
+
