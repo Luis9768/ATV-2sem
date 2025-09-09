@@ -1,7 +1,8 @@
 /*----------VERIFICA SE O ANO É BISSEXTO------------*/
 let ano = prompt("Digite o ano");
 ano = parseInt(ano);
-
-if(ano % 100 && !ano % 4 && !ano % 400 ){
-    console.log("O ano "+ ano + " é bissexto");
-}
+let resultado;
+((!Boolean(ano %4) && Boolean(ano % 100)) || Boolean (ano % 400))
+? resultado = "é bissexto"
+: resultado = "não é bissexto"
+console.log("a ano "+ano+resultado)

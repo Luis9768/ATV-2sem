@@ -1,7 +1,7 @@
 /*------------------DIGITE UM NÚMERO E VEJA SE ELE SE ENCAIXEM SUAS RESPECTIVAS LETRAS----------------*/
 let nota = prompt("Digite o numero");
 
-switch (nota) {
+switch (true) {
     case (nota >= 90):
         console.log("A")
         break
