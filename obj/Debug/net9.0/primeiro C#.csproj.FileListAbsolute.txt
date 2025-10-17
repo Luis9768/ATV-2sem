@@ -1,0 +1,15 @@
+C:\Users\58069799897\Desktop\primeiro C#\bin\Debug\net9.0\primeiro C#.exe
+C:\Users\58069799897\Desktop\primeiro C#\bin\Debug\net9.0\primeiro C#.deps.json
+C:\Users\58069799897\Desktop\primeiro C#\bin\Debug\net9.0\primeiro C#.runtimeconfig.json
+C:\Users\58069799897\Desktop\primeiro C#\bin\Debug\net9.0\primeiro C#.dll
+C:\Users\58069799897\Desktop\primeiro C#\bin\Debug\net9.0\primeiro C#.pdb
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.AssemblyInfoInputs.cache
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.AssemblyInfo.cs
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.csproj.CoreCompileInputs.cache
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.sourcelink.json
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.dll
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\refint\primeiro C#.dll
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.pdb
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\primeiro C#.genruntimeconfig.cache
+C:\Users\58069799897\Desktop\primeiro C#\obj\Debug\net9.0\ref\primeiro C#.dll
