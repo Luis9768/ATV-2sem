@@ -1,0 +1,15 @@
+C:\Users\58069799897\Desktop\Ponteiros C#\bin\Debug\net9.0\Ponteiros C#.exe
+C:\Users\58069799897\Desktop\Ponteiros C#\bin\Debug\net9.0\Ponteiros C#.deps.json
+C:\Users\58069799897\Desktop\Ponteiros C#\bin\Debug\net9.0\Ponteiros C#.runtimeconfig.json
+C:\Users\58069799897\Desktop\Ponteiros C#\bin\Debug\net9.0\Ponteiros C#.dll
+C:\Users\58069799897\Desktop\Ponteiros C#\bin\Debug\net9.0\Ponteiros C#.pdb
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.AssemblyInfoInputs.cache
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.AssemblyInfo.cs
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.csproj.CoreCompileInputs.cache
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.sourcelink.json
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.dll
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\refint\Ponteiros C#.dll
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.pdb
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\Ponteiros C#.genruntimeconfig.cache
+C:\Users\58069799897\Desktop\Ponteiros C#\obj\Debug\net9.0\ref\Ponteiros C#.dll

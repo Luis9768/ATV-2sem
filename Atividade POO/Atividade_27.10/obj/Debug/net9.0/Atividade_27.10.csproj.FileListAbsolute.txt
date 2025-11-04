@@ -1,0 +1,15 @@
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.AssemblyInfoInputs.cache
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.AssemblyInfo.cs
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.csproj.CoreCompileInputs.cache
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.sourcelink.json
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\bin\Debug\net9.0\Atividade_27.10.exe
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\bin\Debug\net9.0\Atividade_27.10.deps.json
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\bin\Debug\net9.0\Atividade_27.10.runtimeconfig.json
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\bin\Debug\net9.0\Atividade_27.10.dll
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\bin\Debug\net9.0\Atividade_27.10.pdb
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.dll
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\refint\Atividade_27.10.dll
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.pdb
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\Atividade_27.10.genruntimeconfig.cache
+C:\Users\58069799897\Desktop\Atividade POO\Atividade_27.10\obj\Debug\net9.0\ref\Atividade_27.10.dll
